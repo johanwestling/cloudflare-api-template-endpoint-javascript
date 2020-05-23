@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "name": "$ENDPOINT_NAME",
+  "version": "1.0.0",
+  "main": "index.js"
+}
