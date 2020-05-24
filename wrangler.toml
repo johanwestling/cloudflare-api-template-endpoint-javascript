@@ -1,6 +1,6 @@
-name = "$CF_ENDPOINT_NAME"
-type = "$CF_ENDPOINT_TYPE"
-account_id = "$CF_ACCOUNT_ID"
+name = "name"
+type = "javascript"
+account_id = "account-id"
 workers_dev = true
-route = "$CF_ENDPOINT_ROUTE"
-zone_id = "$CF_ZONE_ID"
+route = "route"
+zone_id = "zone-id"
