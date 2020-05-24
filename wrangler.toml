@@ -1,6 +1,6 @@
-name = ""
+name = "template"
 type = "javascript"
-route = ""
-account_id = ""
-zone_id = ""
+account_id = "account_id"
 workers_dev = false
+route = ""
+zone_id = "zone_id"
