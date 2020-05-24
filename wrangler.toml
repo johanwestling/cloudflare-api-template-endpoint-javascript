@@ -1,6 +1,6 @@
-name = "$ENDPOINT_NAME"
-type = "$ENDPOINT_TYPE"
+name = "$CF_ENDPOINT_NAME"
+type = "$CF_ENDPOINT_TYPE"
 account_id = "$CF_ACCOUNT_ID"
 workers_dev = true
-route = "$ENDPOINT_ROUTE"
+route = "$CF_ENDPOINT_ROUTE"
 zone_id = "$CF_ZONE_ID"
