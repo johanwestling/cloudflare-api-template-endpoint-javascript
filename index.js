@@ -8,10 +8,12 @@ addEventListener('fetch', event => {
  */
 async function handleRequest(request){
   return new Response(
-    `{
+    `
+    {
       status: 200,
-      message: 'Hello from worker endpoint'
-    }`,
+      message: 'Hello from endpoint!'
+    }
+    `,
     {
       headers: {
         'content-type': 'text/plain'
