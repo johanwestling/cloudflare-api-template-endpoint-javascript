@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "endpoint-name",
+  "name": "template",
   "version": "1.0.0",
   "main": "index.js"
 }
