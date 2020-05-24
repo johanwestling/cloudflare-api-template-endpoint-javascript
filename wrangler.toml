@@ -1,6 +1,6 @@
-name = "endpoint-name"
+name = ""
 type = "javascript"
-route = "endpoint-route"
-account_id = "account-id"
-zone_id = "zone-id"
+route = ""
+account_id = ""
+zone_id = ""
 workers_dev = true
