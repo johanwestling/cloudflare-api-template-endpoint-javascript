@@ -1,3 +1,3 @@
-# 👷 `cloudflare-worker-api-template-endpoint`
+# 👷 `cloudflare-api-template-endpoint-javascript`
 
-A template used for endpoint creation in `cloudflare-worker-api-template` _(still a private repository)_.
+A template used for endpoint creation in `cloudflare-api-template` _(private repository for now)_.
